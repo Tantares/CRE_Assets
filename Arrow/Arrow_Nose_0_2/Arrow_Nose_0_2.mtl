@@ -7,7 +7,7 @@ Kd 1.0 1.0 1.0
 Ka 1.0 1.0 1.0
 Ks 0.001 0.001 0.001
 Ke 1.0 1.0 1.0
-map_Kd Texture_Arrow_General_3.png
+map_Kd Texture_Arrow_General_3.png.tga
 
 newmtl default2
 Ns 0.0
